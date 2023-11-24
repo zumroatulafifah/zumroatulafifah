@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zumroatulafifah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1KJl4WZbDB1t0DYsfgRIW03tTpd5cF303](https://drive.google.com/drive/u/0/folders/1KJl4WZbDB1t0DYsfgRIW03tTpd5cF303)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1KJl4WZbDB1t0DYsfgRIW03tTpd5cF303](https://drive.google.com/file/d/1_zEoEkoOz5as7BnaDWigK93vlJOz_J26/view?usp=sharing)
 
 - ⚡ Fun fact **Not in a crowd**
 
