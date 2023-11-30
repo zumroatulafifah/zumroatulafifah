@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumroatulafifah&label=Profile%20views&color=0e75b6&style=flat" alt="zumroatulafifah" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, React, Flutter, Dart, PHP, Phyton, Android, Node Js.**
-
-- 👨‍💻 All of my projects are available at [https://portofolio-zumroatulafifah.my.id/](https://portofolio-zumroatulafifah.my.id/)
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Flutter, Dart, PHP, Phyton, Android, Node Js.**
 
 - 📝 I regularly write articles on [https://medium.com/@zumroatulafifah123](https://medium.com/@zumroatulafifah123)
 
